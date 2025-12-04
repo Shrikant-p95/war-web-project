@@ -1,0 +1,3 @@
+Echo "this is for only testing"
+pwd 
+whoami
